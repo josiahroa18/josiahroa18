@@ -8,17 +8,17 @@ I have a passion for solving problems with computers. I have been coding for 4 y
 
 
 ### Languages and Tools:
-<img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
-<img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'/>
-<img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'/>
-<img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/>
-<img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
-<img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'/>
-<img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png'/>
-<img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png'/>
-<img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png'/>
-<img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apollographql.svg" />
+<code><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></code>
+<code><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" /></code>
+<code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'/></code>
+<code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'/></code>
+<code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/></code>
+<code><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /></code>
+<code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'/></code>
+<code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png'/></code>
+<code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png'/></code>
+<code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png'/></code>
+<code><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apollographql.svg" /></code>
 
 ### About Me:
 - I'm currently working on SEAK Clinical.
