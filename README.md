@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hey 👋, I'm Josiah Roa! I'm a Software Engineer from Colorado.
+I have a passion for solving problems with computers. I have been coding for 4 years with experience in full-stack web development and solving data structure and algorithm problems.
 
-<!--
-**josiahroa18/josiahroa18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
+<a href='https://www.linkedin.com/in/josiah-roa/'>
+    <img width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+<img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+<img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'/>
+<img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'/>
+<img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/>
+<img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
+<img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'/>
+<img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png'/>
+<img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png'/>
+<img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png'/>
+<img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apollographql.svg" />
+
+### About Me:
+- I'm currently working on SEAK Clinical.
+- I'm currently working on [Roadetrix](https://github.com/Roadetrix-Records).
+- I'm currently working as a Team Lead at [Lambda School](https://lambdaschool.com/)
+- I'm looking to help develop software for space exploration, national defense, or military contracted software.
+- Resume(Soon)
+
+
+
+
+### Github Stats
+<img alt='josiahroa18 Github Stats' src='https://github-readme-stats-k4dpfooit.vercel.app/api?username=josiahroa18&show_icons=true&hide_border=true'/>
