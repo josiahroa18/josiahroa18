@@ -30,5 +30,4 @@ I have a passion for solving problems with computers. I have been coding for 4 y
 
 
 
-### Github Stats
 <img alt='josiahroa18 Github Stats' src='https://github-readme-stats-k4dpfooit.vercel.app/api?username=josiahroa18&show_icons=true&hide_border=true'/>
