@@ -24,7 +24,7 @@ I have a passion for solving problems with computers. I have been coding for 4 y
 - I'm currently working on SEAK Clinical.
 - I'm currently working on [Roadetrix](https://github.com/Roadetrix-Records).
 - I'm currently working as a Team Lead at [Lambda School](https://lambdaschool.com/)
-- I'm looking to help develop software for space exploration, national defense, or military contracted software.
+- I'm looking to help develop software that advances technology into a new era.
 - [My Resume](https://docs.google.com/document/d/1egtAF0EcYqRSJp9-Q61aN-jLhYGhNFc5fdEkfZtSjvU/edit?usp=sharing)
 
 
