@@ -1,5 +1,5 @@
 ### Hey 👋, I'm Josiah Roa! I'm a Software Engineer from Colorado.
-I have a passion for solving problems with computers. I have been coding for 4 years with experience in full-stack web development and solving data structure and algorithm problems.
+I have a passion for solving problems with computers. I have been coding for 3 years with experience in full-stack web development and solving data structure and algorithm problems.
 
 ### Connect with me:
 <a href='https://www.linkedin.com/in/josiah-roa/'>
