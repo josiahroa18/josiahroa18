@@ -21,11 +21,11 @@ I have a passion for solving problems with computers. I have been coding for 3 y
 <code><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apollographql.svg" /></code>
 
 ### About Me:
-- I'm currently working on SEAK Clinical.
+- Open to software engineering roles in the Denver area.
+- I'm currently doing contract work for SEAK Clinical.
 - I'm currently working on [Roadetrix](https://github.com/Roadetrix-Records).
 - I'm currently working as a Team Lead at [Lambda School](https://lambdaschool.com/)
-- I'm looking to help develop software that advances technology into a new era.
-- [My Resume](https://docs.google.com/document/d/1egtAF0EcYqRSJp9-Q61aN-jLhYGhNFc5fdEkfZtSjvU/edit?usp=sharing)
+- [My Resume](https://docs.google.com/document/d/1njHmKczfWgIKkfRxtV5VTxh-sdC0X9Ch7Z5dZW6-JfM/edit)
 
 
 
