@@ -20,14 +20,5 @@ I have a passion for solving problems with computers. I have been coding for 3 y
 <code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png'/></code>
 <code><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apollographql.svg" /></code>
 
-### About Me:
-- Open to software engineering roles in the Denver area.
-- I'm currently doing contract work for SEAK Clinical.
-- I'm currently working on [Roadetrix](https://github.com/Roadetrix-Records).
-- I'm currently working as a Team Lead at [Lambda School](https://lambdaschool.com/)
-- [My Resume](https://docs.google.com/document/d/1njHmKczfWgIKkfRxtV5VTxh-sdC0X9Ch7Z5dZW6-JfM/edit)
-
-
-
 
 <img alt='josiahroa18 Github Stats' src='https://github-readme-stats-k4dpfooit.vercel.app/api?username=josiahroa18&show_icons=true&hide_border=true'/>
